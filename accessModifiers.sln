@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectA", "ProjectA\ProjectA.csproj", "{ADC23590-47EA-4D0C-877E-2C6831264263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectB", "ProjectB\ProjectB.csproj", "{181286CD-2835-471F-B44A-524CBA5711BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectC", "ProjectC\ProjectC.csproj", "{B2C78215-0B15-449E-9095-6E9CFDE19B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC23590-47EA-4D0C-877E-2C6831264263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC23590-47EA-4D0C-877E-2C6831264263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC23590-47EA-4D0C-877E-2C6831264263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC23590-47EA-4D0C-877E-2C6831264263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181286CD-2835-471F-B44A-524CBA5711BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181286CD-2835-471F-B44A-524CBA5711BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181286CD-2835-471F-B44A-524CBA5711BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181286CD-2835-471F-B44A-524CBA5711BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C78215-0B15-449E-9095-6E9CFDE19B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C78215-0B15-449E-9095-6E9CFDE19B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C78215-0B15-449E-9095-6E9CFDE19B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C78215-0B15-449E-9095-6E9CFDE19B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB07DB25-57DA-47B8-95DC-66FC15634C7B}
+	EndGlobalSection
+EndGlobal
